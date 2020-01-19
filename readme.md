@@ -1,8 +1,12 @@
 # 说明
 
-headUrl1中的头像是爬下来的矩阵点图
+headUrl1中的头像是爬下来的矩阵点图，预览如下：
 
-headUrl2中的头像是爬下来的卡通图
+![url1](url1.PNG)
+
+headUrl2中的头像是爬下来的卡通图，预览如下：
+
+![url1](url2.PNG)
 
 tiny后缀的是缩小图
 
